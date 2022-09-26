@@ -1,0 +1,21 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Welcome",
+      "permalink": "/PwshBlog/blog/welcome"
+    },
+    {
+      "title": "MDX Blog Post",
+      "permalink": "/PwshBlog/blog/mdx-blog-post"
+    },
+    {
+      "title": "Long Blog Post",
+      "permalink": "/PwshBlog/blog/long-blog-post"
+    },
+    {
+      "title": "First Blog Post",
+      "permalink": "/PwshBlog/blog/first-blog-post"
+    }
+  ]
+}
