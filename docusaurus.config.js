@@ -9,7 +9,7 @@ const config = {
   title: 'Powershelling Blog',
   tagline: 'Even ostriches can fly if properly motivated',
   url: 'https://largehawiian.github.io/',
-  baseUrl: '/PwshBlog/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -17,8 +17,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Largehawiian', // Usually your GitHub org/user name.
-  projectName: 'PwshBlog', // Usually your repo name.
+  organizationName: 'The-Ostrich', // Usually your GitHub org/user name.
+  projectName: 'Blog', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -120,6 +120,7 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+        additionalLanguages: ['powershell'],
       },
     }),
 };

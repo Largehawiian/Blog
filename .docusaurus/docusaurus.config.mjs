@@ -7,13 +7,13 @@ export default {
   "title": "Powershelling Blog",
   "tagline": "Even ostriches can fly if properly motivated",
   "url": "https://largehawiian.github.io/",
-  "baseUrl": "/PwshBlog/",
+  "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
   "trailingSlash": false,
-  "organizationName": "Largehawiian",
-  "projectName": "PwshBlog",
+  "organizationName": "The-Ostrich",
+  "projectName": "Blog",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -27,7 +27,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\node\\PwshBlog\\PwshBlog\\sidebars.js",
+          "sidebarPath": "C:\\node\\Blog\\sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -35,7 +35,7 @@ export default {
           "editUrl": "https://github.com/Largehawiian/PwshBlog/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "C:\\node\\PwshBlog\\PwshBlog\\src\\css\\custom.css"
+          "customCss": "C:\\node\\Blog\\src\\css\\custom.css"
         }
       }
     ]
@@ -298,7 +298,9 @@ export default {
           }
         ]
       },
-      "additionalLanguages": [],
+      "additionalLanguages": [
+        "powershell"
+      ],
       "magicComments": [
         {
           "className": "theme-code-block-highlighted-line",

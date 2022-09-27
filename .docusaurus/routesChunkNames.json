@@ -1,210 +1,101 @@
 {
-  "/PwshBlog/blog-73d": {
+  "/blog-a54": {
     "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "41ba8f77"
+      "plugin": "6b94527d"
     },
     "sidebar": "814f3328",
     "items": [
       {
-        "content": "7661071f"
-      },
-      {
-        "content": "f4f34a3a"
-      },
-      {
-        "content": "8717b14a"
-      },
-      {
-        "content": "925b3f96"
+        "content": "3e0b2119"
       }
     ],
-    "metadata": "f3967615"
+    "metadata": "b2b675dd"
   },
-  "/PwshBlog/blog/archive-a3a": {
+  "/blog/archive-e25": {
     "__comp": "9e4087bc",
     "__context": {
-      "plugin": "41ba8f77"
+      "plugin": "6b94527d"
     },
-    "archive": "c7fbe5b9"
+    "archive": "b2f554cd"
   },
-  "/PwshBlog/blog/first-blog-post-9ba": {
+  "/blog/powershell-blog-power-438": {
     "__comp": "ccc49370",
     "__context": {
-      "plugin": "41ba8f77"
+      "plugin": "6b94527d"
     },
     "sidebar": "814f3328",
-    "content": "e273c56f"
+    "content": "980239db"
   },
-  "/PwshBlog/blog/long-blog-post-8b6": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "41ba8f77"
-    },
-    "sidebar": "814f3328",
-    "content": "73664a40"
-  },
-  "/PwshBlog/blog/mdx-blog-post-6eb": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "41ba8f77"
-    },
-    "sidebar": "814f3328",
-    "content": "59362658"
-  },
-  "/PwshBlog/blog/tags-5d9": {
+  "/blog/tags-db3": {
     "__comp": "01a85c17",
     "__context": {
-      "plugin": "41ba8f77"
+      "plugin": "6b94527d"
     },
     "sidebar": "814f3328",
-    "tags": "632e2202"
+    "tags": "a7023ddc"
   },
-  "/PwshBlog/blog/tags/docusaurus-07d": {
+  "/blog/tags/powershell-51b": {
     "__comp": "6875c492",
     "__context": {
-      "plugin": "41ba8f77"
+      "plugin": "6b94527d"
     },
     "sidebar": "814f3328",
     "items": [
       {
-        "content": "7661071f"
-      },
-      {
-        "content": "f4f34a3a"
-      },
-      {
-        "content": "8717b14a"
-      },
-      {
-        "content": "925b3f96"
+        "content": "3e0b2119"
       }
     ],
-    "tag": "bfe00e9e",
-    "listMetadata": "4933cd10"
+    "tag": "7933c1f2",
+    "listMetadata": "0779b467"
   },
-  "/PwshBlog/blog/tags/facebook-197": {
+  "/blog/tags/variables-a52": {
     "__comp": "6875c492",
     "__context": {
-      "plugin": "41ba8f77"
+      "plugin": "6b94527d"
     },
     "sidebar": "814f3328",
     "items": [
       {
-        "content": "7661071f"
+        "content": "3e0b2119"
       }
     ],
-    "tag": "d4a2f37d",
-    "listMetadata": "03d40892"
+    "tag": "933f20f2",
+    "listMetadata": "308d796d"
   },
-  "/PwshBlog/blog/tags/hello-e62": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "41ba8f77"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "7661071f"
-      },
-      {
-        "content": "8717b14a"
-      }
-    ],
-    "tag": "33189a47",
-    "listMetadata": "d9af1ab7"
-  },
-  "/PwshBlog/blog/tags/hola-504": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "41ba8f77"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "925b3f96"
-      }
-    ],
-    "tag": "a2f0e6fe",
-    "listMetadata": "21554ef4"
-  },
-  "/PwshBlog/blog/welcome-1e2": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "41ba8f77"
-    },
-    "sidebar": "814f3328",
-    "content": "d9f32620"
-  },
-  "/PwshBlog/hello-react-3e9": {
+  "/hello-react-ca3": {
     "__comp": "d802d782",
     "__context": {
-      "plugin": "5bfaa754"
+      "plugin": "cbaceef6"
     },
     "config": "5e9f5e1a"
   },
-  "/PwshBlog/markdown-page-111": {
+  "/markdown-page-d99": {
     "__comp": "1f391b9e",
     "__context": {
-      "plugin": "5bfaa754"
+      "plugin": "cbaceef6"
     },
     "content": "393be207"
   },
-  "/PwshBlog/docs-3f9": {
+  "/docs-a59": {
     "__comp": "1be78505",
     "__context": {
-      "plugin": "d96357e4"
+      "plugin": "eb7a1da5"
     },
     "versionMetadata": "935f2afb"
   },
-  "/PwshBlog/docs/category/tutorial---basics-942": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "c545cbaa"
+  "/docs/ImgBB API-769": {
+    "__comp": "17896441",
+    "content": "3592324a"
   },
-  "/PwshBlog/docs/category/tutorial---extras-a90": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "874605ca"
-  },
-  "/PwshBlog/docs/intro-d6f": {
+  "/docs/intro-aed": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/PwshBlog/docs/tutorial-basics/congratulations-2de": {
-    "__comp": "17896441",
-    "content": "822bd8ab"
-  },
-  "/PwshBlog/docs/tutorial-basics/create-a-blog-post-3c7": {
-    "__comp": "17896441",
-    "content": "533a09ca"
-  },
-  "/PwshBlog/docs/tutorial-basics/create-a-document-d68": {
-    "__comp": "17896441",
-    "content": "1e4232ab"
-  },
-  "/PwshBlog/docs/tutorial-basics/create-a-page-d90": {
-    "__comp": "17896441",
-    "content": "5c868d36"
-  },
-  "/PwshBlog/docs/tutorial-basics/deploy-your-site-96e": {
-    "__comp": "17896441",
-    "content": "f55d3e7a"
-  },
-  "/PwshBlog/docs/tutorial-basics/markdown-features-a57": {
-    "__comp": "17896441",
-    "content": "18c41134"
-  },
-  "/PwshBlog/docs/tutorial-extras/manage-docs-versions-429": {
-    "__comp": "17896441",
-    "content": "dff1c289"
-  },
-  "/PwshBlog/docs/tutorial-extras/translate-your-site-4bd": {
-    "__comp": "17896441",
-    "content": "e44a2883"
-  },
-  "/PwshBlog/-031": {
+  "/-050": {
     "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "5bfaa754"
+      "plugin": "cbaceef6"
     },
     "config": "5e9f5e1a"
   }
