@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 title: ImgBB.com API Powershell Module
 ---
     While hanging out in the PowerShell Discord #Powershell-help channel. Someone asked for help in uploading
