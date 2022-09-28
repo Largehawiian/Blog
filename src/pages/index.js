@@ -15,7 +15,7 @@ function HomepageHeader() {
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
-          <ReactPlayer playing={true} muted={true} controls={false} loop={true} url= "/PwshBlog/img/WebsiteClip.mp4"  />
+          <ReactPlayer playing={true} muted={true} controls={false} loop={true} url= "/img/WebsiteClip.mp4"  />
         </div>
       </div>
     </header>
